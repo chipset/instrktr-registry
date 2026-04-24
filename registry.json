@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "id": "git-basics",
+      "title": "Git Fundamentals",
+      "description": "Learn the core Git workflow: init, commit, branch, merge, and history. Six hands-on steps with real validators.",
+      "repo": "chipset/course-git-basics",
+      "latestVersion": "1.0.0",
+      "tags": ["git", "version-control", "beginner"]
+    },
+    {
+      "id": "zowe-api-python",
+      "title": "Mainframe API Integration with Zowe and Python",
+      "description": "Build a Python client that authenticates with Zowe API ML, queries mainframe datasets, triggers data cleaning, and parses fixed-width results.",
+      "repo": "chipset/course-zowe-api-python",
+      "latestVersion": "1.0.0",
+      "tags": ["zowe", "mainframe", "python", "api"]
+    }
+  ]
+}
