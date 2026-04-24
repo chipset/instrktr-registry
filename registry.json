@@ -15,6 +15,14 @@
       "repo": "chipset/course-zowe-api-python",
       "latestVersion": "1.0.0",
       "tags": ["zowe", "mainframe", "python", "api"]
+    },
+    {
+      "id": "zowe-config",
+      "title": "Zowe CLI Configuration",
+      "description": "Master Zowe CLI config files: create a global config, understand the order of precedence (flags, env vars, project and global configs), work with multiple layered configs, and diagnose issues with built-in inspection commands.",
+      "repo": "chipset/course-zowe-config",
+      "latestVersion": "1.0.0",
+      "tags": ["zowe", "mainframe", "cli", "configuration"]
     }
   ]
 }
