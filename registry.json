@@ -17,6 +17,14 @@
       "tags": ["zowe", "mainframe", "python", "api"]
     },
     {
+      "id": "python-web-flask",
+      "title": "Build a Python Web App with Flask",
+      "description": "Build a complete Flask web application from scratch: install dependencies, create routes, add Jinja2 templates, handle form submissions, and compute statistics with Python's standard library.",
+      "repo": "chipset/course-python-web",
+      "latestVersion": "1.0.0",
+      "tags": ["python", "flask", "web", "beginner"]
+    },
+    {
       "id": "zowe-config",
       "title": "Zowe CLI Configuration",
       "description": "Master Zowe CLI config files: create a global config, understand the order of precedence (flags, env vars, project and global configs), work with multiple layered configs, and diagnose issues with built-in inspection commands.",
