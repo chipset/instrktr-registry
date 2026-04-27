@@ -30,7 +30,7 @@
       "description": "Zowe users introduction to Javascript for automation.",
       "repo": "chipset/course-javascript-basics",
       "latestVersion": "1.0.0",
-      "tags": ["into", "javascript", "zowe", "beginner"]
+      "tags": ["intro", "javascript", "zowe", "beginner"]
     },
     {
       "id": "zowe-config",
