@@ -47,6 +47,14 @@
       "repo": "chipset/course-hlasm-basics",
       "latestVersion": "1.0.0",
       "tags": ["hlasm", "mainframe", "intro"]
+    },
+    {
+      "id": "easytrieve-01",
+      "title": "Test Easytrieve Course",
+      "description": "test course",
+      "repo": "chipset/course-easytrieve-01",
+      "latestVersion": "1.0.0",
+      "tags": ["test", "mainframe", "easytrieve"]
     }
   ]
 }
