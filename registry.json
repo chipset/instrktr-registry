@@ -1,44 +1,29 @@
 {
   "courses": [
     {
-      "id": "git-basics",
-      "title": "Git Fundamentals",
-      "description": "Learn the core Git workflow: init, commit, branch, merge, and history. Six hands-on steps with real validators.",
-      "repo": "chipset/course-git-basics",
-      "latestVersion": "1.0.0",
-      "tags": ["git", "version-control", "beginner"]
-    },
-    {
-      "id": "zowe-api-python",
-      "title": "Mainframe API Integration with Zowe and Python",
-      "description": "Build a Python client that authenticates with Zowe API ML, queries mainframe datasets, triggers data cleaning, and parses fixed-width results.",
-      "repo": "chipset/course-zowe-api-python",
-      "latestVersion": "1.0.0",
-      "tags": ["zowe", "mainframe", "python", "api"]
-    },
-    {
       "id": "python-web-flask",
       "title": "Build a Python Web App with Flask",
       "description": "Build a complete Flask web application from scratch: install dependencies, create routes, add Jinja2 templates, handle form submissions, and compute statistics with Python's standard library.",
       "repo": "chipset/course-python-web",
       "latestVersion": "1.0.0",
-      "tags": ["python", "flask", "web", "beginner"]
-    },    
-    {
-      "id": "javascript-basics",
-      "title": "Javascript Basics for Zowe users",
-      "description": "Zowe users introduction to Javascript for automation.",
-      "repo": "chipset/course-javascript-basics",
-      "latestVersion": "1.0.0",
-      "tags": ["intro", "javascript", "zowe", "beginner"]
+      "tags": [
+        "python",
+        "flask",
+        "web",
+        "beginner"
+      ]
     },
     {
-      "id": "zowe-config",
-      "title": "Zowe CLI Configuration",
-      "description": "Master Zowe CLI config files: create a global config, understand the order of precedence (flags, env vars, project and global configs), work with multiple layered configs, and diagnose issues with built-in inspection commands.",
-      "repo": "chipset/course-zowe-config",
+      "id": "git-basics",
+      "title": "Git Fundamentals",
+      "description": "Learn the core Git workflow: init, commit, branch, merge, and history. Six hands-on steps with real validators.",
+      "repo": "chipset/course-git-basics",
       "latestVersion": "1.0.0",
-      "tags": ["zowe", "mainframe", "cli", "configuration"]
+      "tags": [
+        "git",
+        "version-control",
+        "beginner"
+      ]
     },
     {
       "id": "hlasm-basics",
@@ -46,7 +31,37 @@
       "description": "This is an introduction to HLASM",
       "repo": "chipset/course-hlasm-basics",
       "latestVersion": "1.0.0",
-      "tags": ["hlasm", "mainframe", "intro"]
+      "tags": [
+        "hlasm",
+        "mainframe",
+        "intro"
+      ]
+    },
+    {
+      "id": "javascript-basics",
+      "title": "Javascript Basics for Zowe users",
+      "description": "Zowe users introduction to Javascript for automation.",
+      "repo": "chipset/course-javascript-basics",
+      "latestVersion": "1.0.0",
+      "tags": [
+        "intro",
+        "javascript",
+        "zowe",
+        "beginner"
+      ]
+    },
+    {
+      "id": "zowe-api-python",
+      "title": "Mainframe API Integration with Zowe and Python",
+      "description": "Build a Python client that authenticates with Zowe API ML, queries mainframe datasets, triggers data cleaning, and parses fixed-width results.",
+      "repo": "chipset/course-zowe-api-python",
+      "latestVersion": "1.0.0",
+      "tags": [
+        "zowe",
+        "mainframe",
+        "python",
+        "api"
+      ]
     },
     {
       "id": "easytrieve-01",
@@ -54,7 +69,24 @@
       "description": "test course",
       "repo": "chipset/course-easytrieve-01",
       "latestVersion": "1.0.0",
-      "tags": ["test", "mainframe", "easytrieve"]
+      "tags": [
+        "test",
+        "mainframe",
+        "easytrieve"
+      ]
+    },
+    {
+      "id": "zowe-config",
+      "title": "Zowe CLI Configuration",
+      "description": "Master Zowe CLI config files: create a global config, understand the order of precedence (flags, env vars, project and global configs), work with multiple layered configs, and diagnose issues with built-in inspection commands.",
+      "repo": "chipset/course-zowe-config",
+      "latestVersion": "1.0.0",
+      "tags": [
+        "zowe",
+        "mainframe",
+        "cli",
+        "configuration"
+      ]
     }
   ]
 }
