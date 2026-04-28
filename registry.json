@@ -39,6 +39,14 @@
       "repo": "chipset/course-zowe-config",
       "latestVersion": "1.0.0",
       "tags": ["zowe", "mainframe", "cli", "configuration"]
+    },
+    {
+      "id": "hlasm-basics",
+      "title": "HLASM Intro Course",
+      "description": "This is an introduction to HLASM",
+      "repo": "chipset/course-hlasm-basics",
+      "latestVersion": "1.0.0",
+      "tags": ["hlasm", "mainframe", "intro"]
     }
   ]
 }
