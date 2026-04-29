@@ -78,8 +78,7 @@
       {
     "id": "endevor-team-build-hello-world",
     "title": "Endevor Team Build: Hello World with syncz & bldz",
-    "description": "Follow Broadcom's Hello World Team Build tutorial to create a COBOL build with BUILDZ.js, compile.js, copybook
-  dependencies, and multi-program automation.",
+    "description": "Follow Broadcom's Hello World Team Build tutorial to create a COBOL build with BUILDZ.js",
     "repo": "chipset/course-endevor-team-build-hello-world",
     "latestVersion": "1.0.0",
     "tags": ["mainframe", "endevor", "bldz", "syncz", "cobol"]
