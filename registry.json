@@ -1,5 +1,17 @@
 {
   "courses": [
+    chipset
+course-endevor-quick-edit
+    {
+      "id": "course-endevor-quick-edit",
+      "title": "Endevor",
+      "description": "Endevor.",
+      "repo": "chipset/course-endevor-quick-edit",
+      "latestVersion": "1.0.0",
+      "tags": [
+        "endevor"
+      ]
+    },
     {
       "id": "python-web-flask",
       "title": "Build a Python Web App with Flask",
