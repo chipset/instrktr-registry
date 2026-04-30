@@ -2,12 +2,15 @@
   "courses": [
     {
       "id": "course-endevor-quick-edit",
-      "title": "Endevor",
-      "description": "Endevor.",
+      "title": "m3270 Endevor Quick Edit Check",
+      "description": "Checks that m3270 is connected to a 3270 session, finds Endevor Quick Edit, and confirms return to the ISPF Primary Option Menu.",
       "repo": "chipset/course-endevor-quick-edit",
       "latestVersion": "1.0.0",
       "tags": [
-        "endevor"
+        "m3270",
+        "3270",
+        "endevor",
+        "mainframe"
       ]
     },
     {
@@ -85,14 +88,20 @@
         "easytrieve"
       ]
     },
-      {
-    "id": "endevor-team-build-hello-world",
-    "title": "Endevor Team Build: Hello World with syncz & bldz",
-    "description": "Follow Broadcom's Hello World Team Build tutorial to create a COBOL build with BUILDZ.js",
-    "repo": "chipset/course-endevor-team-build-hello-world",
-    "latestVersion": "1.0.0",
-    "tags": ["mainframe", "endevor", "bldz", "syncz", "cobol"]
-  },
+    {
+      "id": "endevor-team-build-hello-world",
+      "title": "Endevor Team Build: Hello World with syncz & bldz",
+      "description": "Follow Broadcom's Hello World Team Build tutorial to create a COBOL build with BUILDZ.js",
+      "repo": "chipset/course-endevor-team-build-hello-world",
+      "latestVersion": "1.0.0",
+      "tags": [
+        "mainframe",
+        "endevor",
+        "bldz",
+        "syncz",
+        "cobol"
+      ]
+    },
     {
       "id": "zowe-config",
       "title": "Zowe CLI Configuration",
@@ -104,19 +113,6 @@
         "mainframe",
         "cli",
         "configuration"
-      ]
-    },
-    {
-      "id": "m3270-endevor-quick-edit",
-      "title": "m3270 Endevor Quick Edit Check",
-      "description": "Checks that m3270 is connected to a 3270 session, finds Endevor Quick Edit, and confirms return to the ISPF Primary Option Menu.",
-      "repo": "chipset/course-endevor-quick-edit",
-      "latestVersion": "1.0.0",
-      "tags": [
-        "m3270",
-        "3270",
-        "endevor",
-        "mainframe"
       ]
     }
   ]
