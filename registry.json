@@ -114,6 +114,14 @@
         "cli",
         "configuration"
       ]
+    },
+    {
+      "id": "doggos-devx",
+      "title": "DOGGOS DevX",
+      "description": "DOGGOS DevX Walkthrough CourseENDEVOR",
+      "repo": "chipset/course-doggos-devx",
+      "latestVersion": "1.0.4",
+      "tags": []
     }
   ]
 }
