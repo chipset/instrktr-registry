@@ -122,6 +122,17 @@
       "repo": "chipset/course-doggos-devx",
       "latestVersion": "1.0.5",
       "tags": []
+    },
+    {
+      "id": "git-fundamentals",
+      "title": "Git Fundamentals",
+      "description": "A generic hands-on Git course covering repositories, staging, commits, history, ignores, branching, merging, conflicts, remotes, file reset, commit reset, revert, stash, and reflog recovery.",
+      "repo": "chipset/course-git-fundamentals",
+      "latestVersion": "1.0.0",
+      "tags": [
+        "git",
+        "beginnger"
+      ]
     }
   ]
 }
